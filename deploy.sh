@@ -26,7 +26,7 @@ git push origin master
 
 cd ..
 
-rm -rf public
+
 
 # anyblogname 업데이트
 git add .
